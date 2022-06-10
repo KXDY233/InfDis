@@ -6,6 +6,7 @@
 This is the source code for paper _Influence without Authority: Maximizing Information Coverage in Hypergraphs_.
 
 
+
 ## Requirements
 
 python>=3.3.7
@@ -33,6 +34,8 @@ This code was tested on Windows and Linux.
 ### Save seeds
 
 the seeds of all algorithms will be saved to the data path, e.g., "./data/email/".
+
+
 
 
 
@@ -65,7 +68,12 @@ the results will be saved to a fixed path, e.g., "./result/".
 Multiprocessing is enabled by default, and **num_mcmc** should be larger than the number of CPU cores.
 
 
+
+
+
 ## Run Demo
+
+please unzip "data.zip", and run:
 
     ./run_demo.bat
 
