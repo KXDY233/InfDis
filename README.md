@@ -82,6 +82,7 @@ please unzip "data.zip", and run:
 
 ## Cite
 
+```
 @inproceedings{li2023influence,
   title={Influence without Authority: Maximizing Information Coverage in Hypergraphs},
   author={Li, Peiyan and Wang, Honglian and Li, Kai and Bohm, Christian},
@@ -90,4 +91,5 @@ please unzip "data.zip", and run:
   year={2023},
   organization={SIAM}
 }
+```
 
