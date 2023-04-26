@@ -3,7 +3,7 @@
 
 ## About
 
-This is the source code for paper _Influence without Authority: Maximizing Information Coverage in Hypergraphs_.
+This is the source code for paper _Influence without Authority: Maximizing Information Coverage in Hypergraphs_ [SDM'23].
 
 
 
@@ -79,4 +79,15 @@ please unzip "data.zip", and run:
 
     ./run_demo.sh
 
+
+## Cite
+
+@inproceedings{li2023influence,
+  title={Influence without Authority: Maximizing Information Coverage in Hypergraphs},
+  author={Li, Peiyan and Wang, Honglian and Li, Kai and Bohm, Christian},
+  booktitle={Proceedings of the 2023 SIAM International Conference on Data Mining (SDM)},
+  pages={10--18},
+  year={2023},
+  organization={SIAM}
+}
 
